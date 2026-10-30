@@ -2,7 +2,7 @@
 
 ## Approved project scope
 
-This Week in HN collects popular Hacker News posts from the preceding week and turns them into an edited weekly newsletter. The publication archive and the generator are both private and closed source. Unlike the other newsletter repositories, this project has no public submission workflow.
+This Week in HN collects Hacker News posts from the preceding week and turns them into an edited weekly newsletter. The publication archive is public and MIT licensed; the generator remains private and closed source. This project has no public submission workflow.
 
 ## Candidate and issue boundaries
 

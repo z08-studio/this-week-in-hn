@@ -1,6 +1,6 @@
 # Maintenance
 
-This repository holds the publication assets and reviewed issue archive for **This Week in HN**. Its companion, [gen-newsletter-hn](https://github.com/z08-studio/gen-newsletter-hn), owns collection, ranking, generation, and the sole content template at `templates/formatted_template.md`. Both repositories remain private and closed source.
+This public MIT repository holds the publication assets and reviewed issue archive for **This Week in HN**. Its private companion, [gen-newsletter-hn](https://github.com/z08-studio/gen-newsletter-hn), owns collection, ranking, generation, and the publication layout. The generator remains private and closed source.
 
 ## Editorial workflow
 
@@ -61,4 +61,4 @@ Tests use temporary fixtures and do not modify real issues.
 
 ## Rights and access
 
-Original project material is proprietary; see [LICENSE](../LICENSE). Linked third-party material retains its original ownership. Keep source links and write original editorial summaries.
+Original project material is available under the [MIT license](../LICENSE). Linked third-party material retains its original ownership. Keep source links and write original editorial summaries. Credentials, runtime evidence and unpublished editions stay outside the public archive.

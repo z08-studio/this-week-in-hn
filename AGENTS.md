@@ -1,9 +1,9 @@
 # Repository guidelines
 
 - The publication is **This Week in HN**, part of **This Week In Newsletters**, maintained by z08 Studio.
-- This repository and `z08-studio/gen-newsletter-hn` must remain private and closed source. Do not add an open-source license or change repository visibility.
+- This publication and archive repository is public and MIT licensed. The companion `z08-studio/gen-newsletter-hn` remains private and closed source; keep collection, model configuration, credentials and unpublished material there.
 - Use public Hacker News data for discovery. Do not add public submission forms, contribution invitations, issue templates, or community PR workflows.
-- This repository owns brand assets and the reviewed archive. Create blank drafts and copy reviewed Formatted output into them. Maintain the content template only in the companion generator's `templates/formatted_template.md`; do not add a local `templates/` directory. Collection, ranking, and generation also belong in the generator.
+- This repository owns brand assets and the reviewed archive. Create blank drafts and copy reviewed Formatted output into them. Maintain the content layout only in the companion generator; do not add a local `templates/` directory. Collection, ranking, and generation also belong in the generator.
 - Keep tracked source, documentation, and newsletter content in English. Do not copy another project's secrets, runtime outputs, branding, or Git history.
 - The approved identity is H1, the orange folded H. Use `assets/avatar.png` for the logo and `assets/banner.png` for the README masthead; obsolete logo proposals have been removed.
 - The publication is released every Friday at `https://thisweekinhn.substack.com/`.

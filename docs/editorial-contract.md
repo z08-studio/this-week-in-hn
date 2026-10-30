@@ -14,7 +14,7 @@ This Week in HN collects popular Hacker News posts from the preceding week and t
 - Write original summaries after reviewing the linked material. A title-only candidate does not establish that an article or its comments have been reviewed.
 - Give each story one primary place in the issue. Keep related discussion links without repeating the same story across sections.
 
-The generator's Formatted workflow owns the issue layout and configured sections. Keep this repository's `templates/newsletter-template.md` empty and copy reviewed Formatted output into each new blank draft. Remove empty sections and unresolved placeholders before publication.
+The generator's Formatted workflow owns the issue layout and configured sections. Copy reviewed Formatted output into each new blank draft; this repository does not maintain a content template. Remove empty sections and unresolved placeholders before publication.
 
 ## Manual publication
 

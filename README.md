@@ -2,7 +2,7 @@
 
 Private editorial home for **This Week in HN**, a weekly digest of popular Hacker News stories, maintained by **z08 Studio** as part of Weekly Newsletter.
 
-This repository holds a blank draft starter, brand proposals, and reviewed issue archive. Its private companion, [gen-newsletter-hn](https://github.com/z08-studio/gen-newsletter-hn), is the collection and generation workspace and owns the Formatted content template. Both repositories are private and closed source.
+This repository holds brand proposals and the reviewed issue archive. Its private companion, [gen-newsletter-hn](https://github.com/z08-studio/gen-newsletter-hn), is the collection and generation workspace and owns the sole content template at `templates/formatted_template.md`. Both repositories are private and closed source.
 
 ## Editorial workflow
 
@@ -17,7 +17,6 @@ Hacker News is a public discovery source. This project does not need a public Gi
 ## Repository layout
 
 - `assets/logo/`: logo proposals and download assets; no proposal is approved until selected by the editor.
-- `templates/newsletter-template.md`: empty starter for new files. The sole content template lives in the generator's `templates/formatted_template.md`.
 - `drafts/`: ignored, unpublished working material.
 - `archive/`: reviewed editions after publication; no editions have been published or imported here.
 - `docs/editorial-contract.md`: scope and publication rules.

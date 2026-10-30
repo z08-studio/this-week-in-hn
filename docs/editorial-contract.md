@@ -20,4 +20,4 @@ The generator's Formatted workflow owns the issue layout and configured sections
 
 Keep drafts in the ignored `drafts/` directory. Copy only reviewed content from the generator. Creating a repository or generating a draft does not publish an issue.
 
-Archive a final issue only after its publication has been confirmed. The final publication weekday and Substack address remain undecided; do not invent a schedule or URL.
+The publication is released every Friday at [This Week in HN on Substack](https://thisweekinhn.substack.com/). Archive a final issue only after its publication has been confirmed.

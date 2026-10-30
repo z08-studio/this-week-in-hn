@@ -8,4 +8,4 @@
 - Logo proposals are not approved assets until the user selects one. Preserve the existing Weekly Newsletter, Obsidian, and AI identities.
 - No publication weekday or Substack URL has been selected. Do not invent either or inherit another newsletter's schedule.
 - Keep unpublished drafts ignored. Publishing an issue and archiving it after publication require a direct user request. No command should publish automatically.
-- Use a `bear-` branch for changes and open a draft PR after pushing. Do not push follow-up changes directly to `main`.
+- This repository belongs to **This Week In Newsletters**. Commit directly to `main` by default; create a pull request only when the user explicitly requests one.

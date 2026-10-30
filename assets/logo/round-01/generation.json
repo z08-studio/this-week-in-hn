@@ -1,0 +1,27 @@
+{
+  "mode": "built-in image_gen",
+  "useCase": "logo-brand",
+  "round": "01",
+  "status": "proposals-awaiting-selection",
+  "reference": "Approved This Week in AI raster logo used as a style reference for H1 only; existing assets were not modified.",
+  "proposals": [
+    {
+      "id": "H1",
+      "name": "Folded H",
+      "prompt": "Use case: logo-brand.\nAsset type: square avatar logo proposal for an independent weekly newsletter named This Week in HN, covering Hacker News.\nInput image 1 is a STYLE REFERENCE only: the established sibling newsletter's blue folded A. Create a NEW logo, not an edit or recoloring of the A.\nPrimary request: one distinctive capital H formed from a bold folded ribbon, with two sturdy vertical stems joined by a visible horizontal crossbar. It must read instantly as H, not A, N, M, or a generic zigzag. Rounded outer ends, confident simple silhouette, carefully balanced negative space, subtle folded-over intersection.\nPalette: warm saturated orange front faces (#F26A21) and deep burnt orange folded reverse (#9B3714), on a uniform pale warm ivory (#FAF8F3) background. This color choice connects the subject to Hacker News while giving this publication its own mark.\nStyle: polished minimal graphic logo, smooth vector-like contours, restrained two-tone fold depth like the reference, not a photoreal 3D object.\nComposition: exactly one large centered mark occupying roughly 68% of the square, generous crop-safe margins suitable for a circular avatar. No detached square, no border, no text except the stylized H itself, no title, no tiny text, no mockup, no watermark. Render one clean square asset.",
+      "transparentBackground": false
+    },
+    {
+      "id": "H2",
+      "name": "HN monogram",
+      "prompt": "Use case: logo-brand.\nAsset type: square newsletter avatar logo concept for This Week in HN.\nPrimary request: an original, very legible uppercase HN ligature. H on the left and N on the right share a central upright, creating a compact single typographic symbol. Bold geometric editorial lettering, subtly softened outer corners, exact optical spacing, with a diagonal negative-space cut making the N clear. The monogram must read HN, not NN or HM.\nPalette: rich orange (#F26A21) symbol on pale warm ivory (#FAF8F3), with a small deep burnt-orange face only if helpful to define the shared upright.\nStyle: flat, confident, minimal logo design appropriate to a curated technology newsletter, elegant custom lettering rather than a stock font.\nComposition: one compact centered symbol occupying about 72% of the square width with generous circular-crop-safe margins. No Y, no official Hacker News or Y Combinator mark. No other letters, no title, no frame, no decoration, no texture, no perspective, no mockup, no watermark. Deliver one clean square logo.",
+      "transparentBackground": false
+    },
+    {
+      "id": "H3",
+      "name": "Weekly pages",
+      "prompt": "Use case: logo-brand.\nAsset type: square avatar logo concept for This Week in HN, an independent Hacker News weekly digest.\nPrimary request: a distinctive folded-newsletter symbol that also reads as a clear capital N. Form the N from two broad pale paper strips and a diagonal folded bridge; a single short offset paper edge behind the top left gives the sense of gathered weekly pages. Keep the shape bold and simple, with gently rounded ends and one purposeful fold.\nPalette: warm ivory (#FAF8F3) main symbol with a lighter peach folded reverse, set on a solid rich orange background (#E96025) filling the entire square.\nStyle: minimal modern editorial mark, vector-like precision, slight two-tone paper-fold depth, sophisticated and crisp. It should harmonize with a blue folded A sibling newsletter and a rounded W umbrella brand without copying them.\nComposition: one large optically centered N/page mark about 66% of the square, comfortable crop-safe margins. No tiny lines or article text, no Y, no official Hacker News or Y Combinator mark, no slogan, no title, no icon grid, no 3D mockup, no watermark. Render one clean square asset.",
+      "transparentBackground": false
+    }
+  ]
+}

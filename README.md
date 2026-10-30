@@ -2,7 +2,7 @@
 
 Private editorial home for **This Week in HN**, a weekly digest of popular Hacker News stories, maintained by **z08 Studio** as part of Weekly Newsletter.
 
-This repository holds the issue template, brand proposals, and reviewed issue archive. Its private companion, [hn-newsletter-gen](https://github.com/z08-studio/hn-newsletter-gen), is the collection and generation workspace. Both repositories are private and closed source.
+This repository holds the issue template, brand proposals, and reviewed issue archive. Its private companion, [gen-newsletter-hn](https://github.com/z08-studio/gen-newsletter-hn), is the collection and generation workspace. Both repositories are private and closed source.
 
 ## Editorial workflow
 
